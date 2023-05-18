@@ -7,7 +7,8 @@
 # Nice to See you here, pal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 Hi, I'm `Saurabh Talele`, a Python Developer! 🐱‍💻 <br>
 I'm a productive guy, with a constantly seeking to increase my potential everyday. <br>
-I love doing DSA and new technology inspired me!
+Tech Enthisiast and always trying to improve my skills.
+<br>
 visit me at https://saurabhtalele.vercel.app
 <br>
 View my resume at https://resumesaurabhatalele.vercel.app/
