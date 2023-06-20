@@ -5,13 +5,13 @@
 </h1>
 
 # Nice to See you here, pal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-Hi, I'm `Saurabh Talele`, a Python Developer! 🐱‍💻 <br>
-I'm a productive guy, with a constantly seeking to increase my potential everyday. <br>
-Tech Enthisiast and always trying to improve my skills.
+Hi, I'm `Saurabh Talele`, a Python Developer! 💻🐍 <br>
+I'm a productive guy, with a constantly seeking to increase my potential everyday. 🥇<br> 
+Tech Enthisiast and always trying to improve my skills. 🧠
 <br>
-visit me at https://saurabhtalele.vercel.app
+visit me here  <a href="https://saurabhtalele.vercel.app">🌐</a>
 <br>
-View my resume at https://resumesaurabhatalele.vercel.app/
+View my resume here <a href="https://resumesaurabhatalele.vercel.app/"> 📰</a>
 
 ## 🤖Technologies and tools
 <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <image src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <image src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <image src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
