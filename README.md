@@ -1,36 +1,107 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&lines=print+(%22H3770+COD3R5%22)" style="display: inline">
-  </a>
-</h1>
+<div align="center">
 
-# Nice to See you here, pal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-Hi, I'm `Saurabh Talele`, a Python Developer! 💻🐍 <br>
-I'm a productive guy, with a constantly seeking to increase my potential everyday. 🥇<br> 
-Tech Enthisiast and always trying to improve my skills. 🧠
-<br>
-visit me here  <a href="https://saurabhtalele.vercel.app">🌐</a>
-<br>
-View my resume here <a href="https://resumesaurabhatalele.vercel.app/"> 📰</a>
+# Saurabh Talele
 
-## 🤖Technologies and tools
-<image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <image src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <image src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <image src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<image src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<image src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  
+**Software Engineer · Pune, India**
 
-<image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  <image src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+*Building scalable web systems and AI-powered tooling with Node.js, TypeScript & React.*
+*Passionate about developer experience, microservices architecture, and LLM integrations.*
 
+🟢 **Open to SDE roles** across product & platform teams
 
-<image src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  <image src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> <image src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<!-- 
-## 📈Statistics
-<image src="https://github-readme-stats.vercel.app/api?username=SaurabhATalele&show_icons=true&theme=tokyonight"> -->
-  
-## 📱Contact
-<a href="mailto:saurbhatalele@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/saurabhatalele/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/SaurabhATalele"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-saurabhtalele.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://saurabhtalele.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saurabh--talele-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-talele1122)
+[![GitHub](https://img.shields.io/badge/GitHub-SaurabhATalele-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaurabhATalele)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhatalele&show_icons=true&locale=en&layout=compact" alt="saurabhatalele" /></p>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+> 2+ years of production experience building enterprise-grade web systems and AI tooling.
+> Strong foundation in full-stack development, microservices, CI/CD automation, and LLM/AI integrations.
+
+- 🔭 Working on: Full-stack development, MCP server development, LLM integrations
+- 🎓 B.Tech · Information Technology · **9.28 GPA**
+- 📬 Reach me: [LinkedIn](https://linkedin.com/in/saurabh-talele1122) · [Portfolio](https://saurabhtalele.com)
+
+---
+
+## ⚡ Tech Stack
+
+**Languages & Runtimes**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+
+**DevOps & Cloud**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+
+**AI / LLM Tooling**
+
+![MCP](https://img.shields.io/badge/MCP_Server_Dev-7B3F9E?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM_Integrations-2A5298?style=flat-square)
+![AI Tooling](https://img.shields.io/badge/AI_Tooling-1E8449?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 MCP Server Integration
+> Custom Model Context Protocol server enabling LLM-powered tooling workflows — bridging enterprise systems with AI assistants.
+
+`TypeScript` `LLM` `AI Tooling` `MCP`
+
+---
+
+### 🟢 Full-Stack Web Applications
+> Production web apps built with React.js & Next.js. Focus on performance, scalability, and clean architectural patterns.
+
+`React` `Next.js` `Node.js` `TypeScript`
+
+---
+
+### 🟣 CI/CD Pipeline Automation
+> Designed automated build, test, and deployment pipelines for enterprise software delivery at scale.
+
+`GitHub Actions` `Azure DevOps` `DevOps`
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaurabhATalele&theme=github_dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/saurabhatalele?theme=dark&font=Karma&ext=heatmap)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SaurabhATalele&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saurabhtalele.com-0A66C2?style=for-the-badge)](https://saurabhtalele.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saurabh-talele1122)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SaurabhATalele)
+
+*Currently exploring full-time SDE opportunities — feel free to reach out!*
+
+</div>
